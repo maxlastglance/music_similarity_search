@@ -86,7 +86,7 @@ def checkForVariationThree(numerals):
             for j in range(2, 6):
                 comment = ""
                 #first search for seventh degree
-                if numerals[i + j] == "bvii":
+                if i + j < len(numerals) and  numerals[i + j] == "bvii":
                     #since we found seventh degree, now let's look for fifth degree
                     comment += "there are " + str(j -2) + " chords between I and VII"
                     for p in range(1, 6):
@@ -111,12 +111,32 @@ def checkForVariationFour(numerals):
 
     return counter
 
+def checkForSevenOnOne(numerals):
+    counter = 0
+    for i in range(len(numerals) - 1):
+        if numerals[i] == "i" and numerals[i + 1] == "bvii":
+            counter += 1
+    return counter
+
+def checkForSevenOnOneWithNoise(numerals):
+    #check if there is the formula with other chords instead of the I degree in between
+    counter = 0
+    comments = []
+
+    for i in range(len(numerals)):
+        if (i + 1 < len(numerals) and numerals[i] == "i"):
+            for j in range(2, 6):
+                if i + j < len(numerals) and numerals[i + j] == "bvii":
+                    counter += 1
+                    comments.append("there are " + str(j-1) + " chords between I and VII")
+                    break
+    return [counter, comments]
 
 def main():
     # Load the musicXML file into a Score object
-    # score = converter.parse('scores/PL-WRk_352_47r_Gaßenhauer_n22.musicxml')
+    score = converter.parse('scores/PL-WRk_352_47r_Gaßenhauer_n22.musicxml')
     # score = converter.parse('scores/A-Wn_Mus.Hs._18827_enc_dipl_CMN_1r-2r.mxl')
-    score = converter.parse('scores/PL-WRk_352_34r-35r_passo_n17.musicxml')
+    # score = converter.parse('scores/PL-WRk_352_34r-35r_passo_n17.musicxml')
 
     melody_part = score.parts[0].flat.notesAndRests.stream()
     bass_part = score.parts[1].flat.notesAndRests.stream()
@@ -150,19 +170,27 @@ def main():
     for root in root_notes:
         numerals.append(roman.romanNumeralFromChord(chord.Chord([root]), key).figure)
 
-    print("found basic formula " + str(checkForVariationOne(numerals)) + " times")
+    print("found basic formula (I-VII-I-V) " + str(checkForVariationOne(numerals)) + " times")
     result = checkForVariationTwo(numerals)
 
-    print(f"found variation two {result[0]} times")
+    print(f"found variation two (I-VII-...-V) {result[0]} times")
     for comment in result[1]:
         print(comment)
 
     result = checkForVariationThree(numerals)
-    print(f"found variation three {result[0]} times")
+    print(f"found variation three (I-...-VII-...-V) {result[0]} times")
     for comment in result[1]:
         print(comment)
 
-    print("found variation four " + str(checkForVariationFour(numerals)) + " times")
+    print("found variation four (I-V-I-VII) " + str(checkForVariationFour(numerals)) + " times")
+    print("I is followed by VII " + str(checkForSevenOnOne(numerals)) + " times")
+
+    result = checkForSevenOnOneWithNoise(numerals)
+
+    print("found variation five (I-...-VII) " + str(result[0]) + " times")
+    for comment in result[1]:
+        print(comment)
+
 
 
 
