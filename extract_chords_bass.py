@@ -56,7 +56,7 @@ def checkForVariationOne(numerals):
     counter = 0
 
     for i in range(len(numerals)):
-        if(numerals[i] == "i" and i + 3 < len(numerals) and numerals[i + 1] == "vii" and numerals[i + 2] == "i" and
+        if(numerals[i] == "i" and i + 3 < len(numerals) and numerals[i + 1] == "bvii" and numerals[i + 2] == "i" and
         numerals[i + 3] == "v"):
             counter += 1
             i += 4
@@ -70,11 +70,12 @@ def checkForVariationTwo(numerals):
 
     for i in range(len(numerals)):
         if (i + 1 < len(numerals) and numerals[i] == "i" and numerals[i + 1] == "bvii"):
-            for j in range(1, 6):
+            for j in range(2, 6):
                 if i + j < len(numerals) and numerals[i + j] == "v":
                     counter += 1
                     comments.append("there are " + str(j-2) + " chords between VII and V")
                     i = i + j
+                    break
     return [counter, comments]
 
 def checkForVariationThree(numerals):
@@ -88,14 +89,17 @@ def checkForVariationThree(numerals):
                 #first search for seventh degree
                 if i + j < len(numerals) and  numerals[i + j] == "bvii":
                     #since we found seventh degree, now let's look for fifth degree
-                    comment += "there are " + str(j -2) + " chords between I and VII"
+                    comment += "there are " + str(j - 1) + " chords between I and VII"
                     for p in range(1, 6):
                         k = i + j + p
                         if k < len(numerals) and numerals[k] == "v":
-                            comment += " and " + str(p - 2) + " chords between VII and V"
+                            comment += " and " + str(p - 1) + " chords between VII and V"
                             comments.append(comment)
                             counter += 1
                             i = k
+                            break
+            break
+
 
     return [counter, comments]
 
@@ -134,9 +138,9 @@ def checkForSevenOnOneWithNoise(numerals):
 
 def main():
     # Load the musicXML file into a Score object
-    score = converter.parse('scores/PL-WRk_352_47r_Gaßenhauer_n22.musicxml')
+    # score = converter.parse('scores/PL-WRk_352_47r_Gaßenhauer_n22.musicxml')
     # score = converter.parse('scores/A-Wn_Mus.Hs._18827_enc_dipl_CMN_1r-2r.mxl')
-    # score = converter.parse('scores/PL-WRk_352_34r-35r_passo_n17.musicxml')
+    score = converter.parse('scores/PL-WRk_352_34r-35r_passo_n17.musicxml')
 
     melody_part = score.parts[0].flat.notesAndRests.stream()
     bass_part = score.parts[1].flat.notesAndRests.stream()
@@ -160,10 +164,10 @@ def main():
                 notes_with_same_pitch = bass_part.getElementsByOffset(note.offset)
                 lowest_note = getLowestNote(notes_with_same_pitch.notes)
                 # if first note or pitch is different -> note is appended
-                root_notes = checkAndAppendTwo(bass_previous, lowest_note, root_notes, timeSignature)
+                root_notes = checkAndAppend(bass_previous, lowest_note, root_notes, timeSignature)
                 bass_previous = root_notes[-1]
             else:
-                root_notes = checkAndAppendTwo(bass_previous, note, root_notes, timeSignature)
+                root_notes = checkAndAppend(bass_previous, note, root_notes, timeSignature)
                 bass_previous = root_notes[-1]
 
     numerals = []
@@ -192,6 +196,8 @@ def main():
         print(comment)
 
 
+    for obj in numerals:
+        print(obj)
 
 
 
