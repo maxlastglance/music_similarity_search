@@ -1,0 +1,3348 @@
+
+Title:
+chiarenzana_edited_with_maj
+Input:
+[Event:
+- Onset: 0.0
+- Duration: 1.0
+- Measure Number: 1
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 0.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 0.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 0.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 0.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 0.0
+, Event:
+- Onset: 1.0
+- Duration: 0.5
+- Measure Number: 1
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 1.0
+, Event:
+- Onset: 1.5
+- Duration: 0.5
+- Measure Number: 1
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 1.5
+, Event:
+- Onset: 2.0
+- Duration: 1.0
+- Measure Number: 1
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 2.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 2.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 2.0
+, Event:
+- Onset: 3.0
+- Duration: 1.0
+- Measure Number: 1
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 3.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 3.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 3.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 3.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 3.0
+, Event:
+- Onset: 4.0
+- Duration: 1.0
+- Measure Number: 2
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 4.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 4.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 4.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 4.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 4.0
+, Event:
+- Onset: 5.0
+- Duration: 0.5
+- Measure Number: 2
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 5.0
+, Event:
+- Onset: 5.5
+- Duration: 0.5
+- Measure Number: 2
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 5.5
+, Event:
+- Onset: 6.0
+- Duration: 1.0
+- Measure Number: 2
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 6.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 6.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 6.0
+, Event:
+- Onset: 7.0
+- Duration: 1.0
+- Measure Number: 2
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 7.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 7.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 7.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 7.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 7.0
+, Event:
+- Onset: 8.0
+- Duration: 1.0
+- Measure Number: 3
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 8.0
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 8.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 8.0
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 8.0
+, Event:
+- Onset: 9.0
+- Duration: 0.5
+- Measure Number: 3
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 9.0
+, Event:
+- Onset: 9.5
+- Duration: 0.5
+- Measure Number: 3
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: B3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 9.5
+, Event:
+- Onset: 10.0
+- Duration: 0.5
+- Measure Number: 3
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: C4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 10.0
+, Event:
+- Onset: 10.5
+- Duration: 0.5
+- Measure Number: 3
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 10.5
+, Event:
+- Onset: 11.0
+- Duration: 0.5
+- Measure Number: 3
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 11.0
+, Event:
+- Onset: 11.5
+- Duration: 0.5
+- Measure Number: 3
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F#4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 11.5
+, Event:
+- Onset: 12.0
+- Duration: 1.0
+- Measure Number: 4
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 12.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 12.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 12.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 12.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 12.0
+, Event:
+- Onset: 13.0
+- Duration: 1.0
+- Measure Number: 5
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 13.0
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 13.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 13.0
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 13.0
+, Event:
+- Onset: 14.0
+- Duration: 0.5
+- Measure Number: 5
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 14.0
+, Event:
+- Onset: 14.5
+- Duration: 0.5
+- Measure Number: 5
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 14.5
+, Event:
+- Onset: 15.0
+- Duration: 0.5
+- Measure Number: 5
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 15.0
+, Event:
+- Onset: 15.5
+- Duration: 0.5
+- Measure Number: 5
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 15.5
+, Event:
+- Onset: 16.0
+- Duration: 0.5
+- Measure Number: 5
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 16.0
+, Event:
+- Onset: 16.5
+- Duration: 0.5
+- Measure Number: 5
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 16.5
+, Event:
+- Onset: 17.0
+- Duration: 1.0
+- Measure Number: 6
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 17.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 17.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 17.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 17.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 17.0
+, Event:
+- Onset: 18.0
+- Duration: 0.5
+- Measure Number: 6
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 18.0
+, Event:
+- Onset: 18.5
+- Duration: 0.5
+- Measure Number: 6
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 18.5
+, Event:
+- Onset: 19.0
+- Duration: 1.0
+- Measure Number: 6
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 19.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 19.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 19.0
+, Event:
+- Onset: 20.0
+- Duration: 1.0
+- Measure Number: 6
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 20.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 20.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 20.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 20.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 20.0
+, Event:
+- Onset: 21.0
+- Duration: 1.0
+- Measure Number: 7
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 21.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 21.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 21.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 21.0
+, Event:
+- Onset: 22.0
+- Duration: 1.0
+- Measure Number: 7
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 22.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 22.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 22.0
+, Event:
+- Onset: 23.0
+- Duration: 1.0
+- Measure Number: 7
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 23.0
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 23.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 23.0
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 23.0
+, Event:
+- Onset: 24.0
+- Duration: 1.0
+- Measure Number: 7
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 24.0
+-- Note:
+--- Pitch: Bb2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 24.0
+, Event:
+- Onset: 25.0
+- Duration: 1.0
+- Measure Number: 8
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 25.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 25.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 25.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 25.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 25.0
+, Event:
+- Onset: 26.0
+- Duration: 1.0
+- Measure Number: 8
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 26.0
+, Event:
+- Onset: 27.0
+- Duration: 1.0
+- Measure Number: 8
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 27.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 27.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 27.0
+, Event:
+- Onset: 28.0
+- Duration: 1.0
+- Measure Number: 9
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 28.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 28.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 28.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 28.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 28.0
+, Event:
+- Onset: 29.0
+- Duration: 1.0
+- Measure Number: 10
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 29.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 29.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 29.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 29.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 29.0
+, Event:
+- Onset: 30.0
+- Duration: 1.0
+- Measure Number: 10
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 30.0
+, Event:
+- Onset: 31.0
+- Duration: 1.0
+- Measure Number: 10
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 31.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 31.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 31.0
+, Event:
+- Onset: 32.0
+- Duration: 1.0
+- Measure Number: 10
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 32.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 32.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 32.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 32.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 32.0
+, Event:
+- Onset: 33.0
+- Duration: 1.0
+- Measure Number: 11
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 33.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 33.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 33.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 33.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 33.0
+, Event:
+- Onset: 34.0
+- Duration: 0.5
+- Measure Number: 11
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 34.0
+, Event:
+- Onset: 34.5
+- Duration: 0.5
+- Measure Number: 11
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 34.5
+, Event:
+- Onset: 35.0
+- Duration: 1.0
+- Measure Number: 11
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 35.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 35.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 35.0
+, Event:
+- Onset: 36.0
+- Duration: 1.0
+- Measure Number: 11
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 36.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 36.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 36.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 36.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 36.0
+, Event:
+- Onset: 37.0
+- Duration: 1.0
+- Measure Number: 12
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 37.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 37.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 37.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 37.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 37.0
+, Event:
+- Onset: 38.0
+- Duration: 0.5
+- Measure Number: 12
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 38.0
+, Event:
+- Onset: 38.5
+- Duration: 0.5
+- Measure Number: 12
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: C5
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 38.5
+, Event:
+- Onset: 39.0
+- Duration: 0.5
+- Measure Number: 12
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: B4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 39.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 39.0
+, Event:
+- Onset: 39.5
+- Duration: 0.5
+- Measure Number: 12
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 39.5
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 39.0
+, Event:
+- Onset: 40.0
+- Duration: 1.0
+- Measure Number: 12
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 40.0
+-- Note:
+--- Pitch: G3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 40.0
+, Event:
+- Onset: 41.0
+- Duration: 0.5
+- Measure Number: 12
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 41.0
+, Event:
+- Onset: 41.5
+- Duration: 1.0
+- Measure Number: 13
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 41.5
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 41.5
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 41.5
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 41.5
+, Event:
+- Onset: 42.5
+- Duration: 0.5
+- Measure Number: 13
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 42.5
+, Event:
+- Onset: 43.0
+- Duration: 0.5
+- Measure Number: 13
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 43.0
+, Event:
+- Onset: 43.5
+- Duration: 0.5
+- Measure Number: 13
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 43.5
+, Event:
+- Onset: 44.0
+- Duration: 1.0
+- Measure Number: 13
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 44.0
+, Event:
+- Onset: 45.0
+- Duration: 0.5
+- Measure Number: 14
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 45.0
+-- Note:
+--- Pitch: C4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 45.0
+-- Note:
+--- Pitch: C3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 45.0
+, Event:
+- Onset: 45.5
+- Duration: 0.5
+- Measure Number: 14
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 45.5
+, Event:
+- Onset: 46.0
+- Duration: 2.5
+- Measure Number: 15
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 46.0
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 46.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 46.0
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 46.0
+, Event:
+- Onset: 48.5
+- Duration: 0.5
+- Measure Number: 15
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: C5
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 48.5
+, Event:
+- Onset: 49.0
+- Duration: 0.5
+- Measure Number: 15
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: Bb4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 49.0
+, Event:
+- Onset: 49.5
+- Duration: 0.5
+- Measure Number: 15
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 49.5
+, Event:
+- Onset: 50.0
+- Duration: 0.5
+- Measure Number: 16
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 50.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 50.0
+, Event:
+- Onset: 50.5
+- Duration: 0.5
+- Measure Number: 16
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 50.5
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 50.0
+, Event:
+- Onset: 51.0
+- Duration: 0.5
+- Measure Number: 16
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 51.0
+, Event:
+- Onset: 51.5
+- Duration: 0.5
+- Measure Number: 16
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 51.5
+, Event:
+- Onset: 52.0
+- Duration: 0.5
+- Measure Number: 16
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 52.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 52.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 52.0
+, Event:
+- Onset: 52.5
+- Duration: 0.5
+- Measure Number: 16
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 52.5
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 52.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 52.0
+, Event:
+- Onset: 53.0
+- Duration: 0.5
+- Measure Number: 16
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 53.0
+, Event:
+- Onset: 53.5
+- Duration: 0.5
+- Measure Number: 16
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 53.5
+, Event:
+- Onset: 54.0
+- Duration: 0.5
+- Measure Number: 17
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 54.0
+-- Note:
+--- Pitch: Bb2
+--- Duration: 2.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 54.0
+, Event:
+- Onset: 54.5
+- Duration: 0.5
+- Measure Number: 17
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 54.5
+-- Note:
+--- Pitch: Bb2
+--- Duration: 2.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 54.0
+, Event:
+- Onset: 55.0
+- Duration: 0.5
+- Measure Number: 17
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 55.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 55.0
+-- Note:
+--- Pitch: Bb2
+--- Duration: 2.0
+--- From Previous: true
+--- Accent: 0.25
+--- Onset: 54.0
+, Event:
+- Onset: 55.5
+- Duration: 0.5
+- Measure Number: 17
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 55.5
+-- Note:
+--- Pitch: Bb2
+--- Duration: 2.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 54.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 55.0
+, Event:
+- Onset: 56.0
+- Duration: 1.0
+- Measure Number: 18
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 56.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 56.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 56.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 56.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 56.0
+, Event:
+- Onset: 57.0
+- Duration: 1.0
+- Measure Number: 18
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 57.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 57.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 57.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 57.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 57.0
+, Event:
+- Onset: 58.0
+- Duration: 1.0
+- Measure Number: 19
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 58.0
+, Event:
+- Onset: 59.0
+- Duration: 1.0
+- Measure Number: 19
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 59.0
+, Event:
+- Onset: 60.0
+- Duration: 1.0
+- Measure Number: 19
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: F3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 60.0
+, Event:
+- Onset: 61.0
+- Duration: 1.0
+- Measure Number: 20
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 61.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 61.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 61.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 61.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 61.0
+, Event:
+- Onset: 62.0
+- Duration: 0.5
+- Measure Number: 20
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: F3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 62.0
+, Event:
+- Onset: 62.5
+- Duration: 0.5
+- Measure Number: 20
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: G3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 62.5
+, Event:
+- Onset: 63.0
+- Duration: 1.0
+- Measure Number: 20
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 63.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 63.0
+, Event:
+- Onset: 64.0
+- Duration: 1.0
+- Measure Number: 21
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 64.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 64.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 64.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 64.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 64.0
+, Event:
+- Onset: 65.0
+- Duration: 0.5
+- Measure Number: 21
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 65.0
+, Event:
+- Onset: 65.5
+- Duration: 0.5
+- Measure Number: 21
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 65.5
+, Event:
+- Onset: 66.0
+- Duration: 0.5
+- Measure Number: 21
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 66.0
+, Event:
+- Onset: 66.5
+- Duration: 0.5
+- Measure Number: 21
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 66.5
+, Event:
+- Onset: 67.0
+- Duration: 0.5
+- Measure Number: 21
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 67.0
+, Event:
+- Onset: 67.5
+- Duration: 0.5
+- Measure Number: 21
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 67.5
+, Event:
+- Onset: 68.0
+- Duration: 1.0
+- Measure Number: 22
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 68.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 68.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 68.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 68.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 68.0
+, Event:
+- Onset: 69.0
+- Duration: 1.0
+- Measure Number: 22
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 69.0
+, Event:
+- Onset: 70.0
+- Duration: 1.0
+- Measure Number: 22
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 70.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 70.0
+, Event:
+- Onset: 71.0
+- Duration: 4.0
+- Measure Number: 22
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 4.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 71.0
+-- Note:
+--- Pitch: D4
+--- Duration: 4.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 71.0
+-- Note:
+--- Pitch: F4
+--- Duration: 4.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 71.0
+-- Note:
+--- Pitch: A3
+--- Duration: 4.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 71.0
+-- Note:
+--- Pitch: D3
+--- Duration: 4.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 71.0
+, Event:
+- Onset: 75.0
+- Duration: 1.0
+- Measure Number: 23
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 75.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 75.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 75.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 75.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 75.0
+, Event:
+- Onset: 76.0
+- Duration: 0.5
+- Measure Number: 24
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 76.0
+, Event:
+- Onset: 76.5
+- Duration: 0.5
+- Measure Number: 24
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 76.5
+, Event:
+- Onset: 77.0
+- Duration: 0.5
+- Measure Number: 24
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 77.0
+, Event:
+- Onset: 77.5
+- Duration: 0.5
+- Measure Number: 24
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 77.5
+, Event:
+- Onset: 78.0
+- Duration: 0.5
+- Measure Number: 24
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 78.0
+, Event:
+- Onset: 78.5
+- Duration: 1.5
+- Measure Number: 24
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 78.5
+, Event:
+- Onset: 80.0
+- Duration: 1.0
+- Measure Number: 25
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 80.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 80.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 80.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 80.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 80.0
+, Event:
+- Onset: 81.0
+- Duration: 0.5
+- Measure Number: 25
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 81.0
+, Event:
+- Onset: 81.5
+- Duration: 0.5
+- Measure Number: 25
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 81.5
+, Event:
+- Onset: 82.0
+- Duration: 0.5
+- Measure Number: 25
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 82.0
+, Event:
+- Onset: 82.5
+- Duration: 0.5
+- Measure Number: 25
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 82.5
+, Event:
+- Onset: 83.0
+- Duration: 0.5
+- Measure Number: 25
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 83.0
+, Event:
+- Onset: 83.5
+- Duration: 0.5
+- Measure Number: 25
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 83.5
+, Event:
+- Onset: 84.0
+- Duration: 0.5
+- Measure Number: 25
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 84.0
+, Event:
+- Onset: 84.5
+- Duration: 1.0
+- Measure Number: 26
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 84.5
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 84.5
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 84.5
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 84.5
+, Event:
+- Onset: 85.5
+- Duration: 0.5
+- Measure Number: 26
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 85.5
+, Event:
+- Onset: 86.0
+- Duration: 0.5
+- Measure Number: 26
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 86.0
+, Event:
+- Onset: 86.5
+- Duration: 0.5
+- Measure Number: 26
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 86.5
+, Event:
+- Onset: 87.0
+- Duration: 0.5
+- Measure Number: 26
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 87.0
+, Event:
+- Onset: 87.5
+- Duration: 0.5
+- Measure Number: 26
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 87.5
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 87.5
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 87.5
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 87.5
+, Event:
+- Onset: 88.0
+- Duration: 0.5
+- Measure Number: 26
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 88.0
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 87.5
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 87.5
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 87.5
+, Event:
+- Onset: 88.5
+- Duration: 1.0
+- Measure Number: 27
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 88.5
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 88.5
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 88.5
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 88.5
+, Event:
+- Onset: 89.5
+- Duration: 0.5
+- Measure Number: 27
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 89.5
+, Event:
+- Onset: 90.0
+- Duration: 0.5
+- Measure Number: 27
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 90.0
+, Event:
+- Onset: 90.5
+- Duration: 0.5
+- Measure Number: 27
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 90.5
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 90.5
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 90.5
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 90.5
+, Event:
+- Onset: 91.0
+- Duration: 0.5
+- Measure Number: 27
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 91.0
+-- Note:
+--- Pitch: C4
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 90.5
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 90.5
+-- Note:
+--- Pitch: C3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 90.5
+, Event:
+- Onset: 91.5
+- Duration: 0.5
+- Measure Number: 27
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 91.5
+, Event:
+- Onset: 92.0
+- Duration: 0.5
+- Measure Number: 27
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 92.0
+, Event:
+- Onset: 92.5
+- Duration: 1.0
+- Measure Number: 28
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 92.5
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 92.5
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 92.5
+, Event:
+- Onset: 93.5
+- Duration: 0.5
+- Measure Number: 28
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 93.5
+, Event:
+- Onset: 94.0
+- Duration: 0.5
+- Measure Number: 28
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 94.0
+, Event:
+- Onset: 94.5
+- Duration: 0.5
+- Measure Number: 28
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: C#4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 94.5
+, Event:
+- Onset: 95.0
+- Duration: 0.5
+- Measure Number: 28
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 95.0
+, Event:
+- Onset: 95.5
+- Duration: 0.5
+- Measure Number: 28
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 95.5
+, Event:
+- Onset: 96.0
+- Duration: 0.5
+- Measure Number: 28
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 96.0
+, Event:
+- Onset: 96.5
+- Duration: 0.5
+- Measure Number: 28
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 96.5
+, Event:
+- Onset: 97.0
+- Duration: 1.0
+- Measure Number: 29
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 97.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 97.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 97.0
+, Event:
+- Onset: 98.0
+- Duration: 0.5
+- Measure Number: 29
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 98.0
+-- Note:
+--- Pitch: Bb2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 98.0
+, Event:
+- Onset: 98.5
+- Duration: 0.5
+- Measure Number: 29
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 98.5
+-- Note:
+--- Pitch: Bb2
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 98.0
+, Event:
+- Onset: 99.0
+- Duration: 0.5
+- Measure Number: 29
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: G4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 99.0
+-- Note:
+--- Pitch: Bb2
+--- Duration: 2.0
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 99.0
+, Event:
+- Onset: 99.5
+- Duration: 0.5
+- Measure Number: 29
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: F4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 99.5
+-- Note:
+--- Pitch: Bb2
+--- Duration: 2.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 99.0
+, Event:
+- Onset: 100.0
+- Duration: 0.5
+- Measure Number: 29
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 100.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 100.0
+-- Note:
+--- Pitch: Bb2
+--- Duration: 2.0
+--- From Previous: true
+--- Accent: 0.25
+--- Onset: 99.0
+, Event:
+- Onset: 100.5
+- Duration: 0.5
+- Measure Number: 29
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 100.5
+-- Note:
+--- Pitch: Bb2
+--- Duration: 2.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 99.0
+-- Note:
+--- Pitch: G3
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 100.0
+, Event:
+- Onset: 101.0
+- Duration: 1.0
+- Measure Number: 30
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 101.0
+-- Note:
+--- Pitch: E4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 101.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 101.0
+-- Note:
+--- Pitch: C#4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 101.0
+-- Note:
+--- Pitch: A2
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 101.0
+, Event:
+- Onset: 102.0
+- Duration: 0.5
+- Measure Number: 30
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: A3
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 102.0
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 102.0
+, Event:
+- Onset: 102.5
+- Duration: 0.5
+- Measure Number: 30
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 102.5
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: true
+--- Accent: 0.125
+--- Onset: 102.0
+, Event:
+- Onset: 103.0
+- Duration: 0.5
+- Measure Number: 30
+- Accent: 0.5
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.5
+--- Onset: 103.0
+, Event:
+- Onset: 103.5
+- Duration: 0.5
+- Measure Number: 30
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: C#4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 103.5
+, Event:
+- Onset: 104.0
+- Duration: 0.5
+- Measure Number: 30
+- Accent: 0.25
+- Notes:
+-- Note:
+--- Pitch: D4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.25
+--- Onset: 104.0
+, Event:
+- Onset: 104.5
+- Duration: 0.5
+- Measure Number: 30
+- Accent: 0.125
+- Notes:
+-- Note:
+--- Pitch: E4
+--- Duration: 0.5
+--- From Previous: false
+--- Accent: 0.125
+--- Onset: 104.5
+, Event:
+- Onset: 105.0
+- Duration: 16.0
+- Measure Number: 31
+- Accent: 1.0
+- Notes:
+-- Note:
+--- Pitch: A4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 105.0
+-- Note:
+--- Pitch: D4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 105.0
+-- Note:
+--- Pitch: F4
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 105.0
+-- Note:
+--- Pitch: A3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 105.0
+-- Note:
+--- Pitch: D3
+--- Duration: 1.0
+--- From Previous: false
+--- Accent: 1.0
+--- Onset: 105.0
+]
+Gold:
+[Segment:
+- Label: D:maj (id: 10)
+- Onset: 0.0
+- Offset: 8.0
+- Event Start: 0
+- Event Stop: 10
+, Segment:
+- Label: C:maj (id: 5)
+- Onset: 8.0
+- Offset: 17.0
+- Event Start: 10
+- Event Stop: 25
+, Segment:
+- Label: D:maj (id: 10)
+- Onset: 17.0
+- Offset: 25.0
+- Event Start: 25
+- Event Stop: 34
+, Segment:
+- Label: A:maj (id: 24)
+- Onset: 25.0
+- Offset: 33.0
+- Event Start: 34
+- Event Stop: 42
+, Segment:
+- Label: D:maj (id: 10)
+- Onset: 33.0
+- Offset: 41.5
+- Event Start: 42
+- Event Stop: 54
+, Segment:
+- Label: C:maj (id: 5)
+- Onset: 41.5
+- Offset: 50.0
+- Event Start: 54
+- Event Stop: 65
+, Segment:
+- Label: A:maj (id: 24)
+- Onset: 50.0
+- Offset: 64.0
+- Event Start: 65
+- Event Stop: 86
+, Segment:
+- Label: D:maj (id: 10)
+- Onset: 64.0
+- Offset: 84.5
+- Event Start: 86
+- Event Stop: 112
+, Segment:
+- Label: C:maj (id: 5)
+- Onset: 84.5
+- Offset: 92.5
+- Event Start: 112
+- Event Stop: 126
+, Segment:
+- Label: D:maj (id: 10)
+- Onset: 92.5
+- Offset: 101.0
+- Event Start: 126
+- Event Stop: 141
+, Segment:
+- Label: A:maj (id: 24)
+- Onset: 101.0
+- Offset: 121.0
+- Event Start: 141
+- Event Stop: 149
+]
+Prediction:
+[Segment:
+- Label: D:min (id: 12)
+- Onset: 0.0
+- Offset: 8.0
+- Event Start: 0
+- Event Stop: 10
+, Segment:
+- Label: C:maj (id: 5)
+- Onset: 8.0
+- Offset: 19.0
+- Event Start: 10
+- Event Stop: 28
+, Segment:
+- Label: D:min (id: 12)
+- Onset: 19.0
+- Offset: 20.0
+- Event Start: 28
+- Event Stop: 29
+, Segment:
+- Label: A:maj (id: 24)
+- Onset: 20.0
+- Offset: 21.0
+- Event Start: 29
+- Event Stop: 30
+, Segment:
+- Label: D:min (id: 12)
+- Onset: 21.0
+- Offset: 23.0
+- Event Start: 30
+- Event Stop: 32
+, Segment:
+- Label: C:maj (id: 5)
+- Onset: 23.0
+- Offset: 24.0
+- Event Start: 32
+- Event Stop: 33
+, Segment:
+- Label: A:maj (id: 24)
+- Onset: 24.0
+- Offset: 33.0
+- Event Start: 33
+- Event Stop: 42
+, Segment:
+- Label: D:min (id: 12)
+- Onset: 33.0
+- Offset: 41.0
+- Event Start: 42
+- Event Stop: 53
+, Segment:
+- Label: C:maj (id: 5)
+- Onset: 41.0
+- Offset: 50.0
+- Event Start: 53
+- Event Stop: 65
+, Segment:
+- Label: A:maj (id: 24)
+- Onset: 50.0
+- Offset: 63.0
+- Event Start: 65
+- Event Stop: 85
+, Segment:
+- Label: D:min (id: 12)
+- Onset: 63.0
+- Offset: 70.0
+- Event Start: 85
+- Event Stop: 95
+, Segment:
+- Label: F:maj (id: 0)
+- Onset: 70.0
+- Offset: 71.0
+- Event Start: 95
+- Event Stop: 96
+, Segment:
+- Label: D:min (id: 12)
+- Onset: 71.0
+- Offset: 84.5
+- Event Start: 96
+- Event Stop: 112
+, Segment:
+- Label: C:maj (id: 5)
+- Onset: 84.5
+- Offset: 92.5
+- Event Start: 112
+- Event Stop: 126
+, Segment:
+- Label: Bb:maj (id: 1)
+- Onset: 92.5
+- Offset: 101.0
+- Event Start: 126
+- Event Stop: 141
+, Segment:
+- Label: A:maj (id: 24)
+- Onset: 101.0
+- Offset: 102.0
+- Event Start: 141
+- Event Stop: 142
+, Segment:
+- Label: D:min (id: 12)
+- Onset: 102.0
+- Offset: 121.0
+- Event Start: 142
+- Event Stop: 149
+]
+Event Num: 0, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 1, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 2, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 3, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 4, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 5, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 6, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 7, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 8, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 9, Measure Num: 1
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 10, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 11, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 12, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 13, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 14, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 15, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 16, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 17, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 18, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 19, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 20, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 21, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 22, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 23, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 24, Measure Num: 3
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 25, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: C:maj (id: 5)
+Event Num: 26, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: C:maj (id: 5)
+Event Num: 27, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: C:maj (id: 5)
+Event Num: 28, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 29, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: A:maj (id: 24)
+Event Num: 30, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 31, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 32, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: C:maj (id: 5)
+Event Num: 33, Measure Num: 6
+Actual: D:maj (id: 10) Predicted: A:maj (id: 24)
+Event Num: 34, Measure Num: 8
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 35, Measure Num: 8
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 36, Measure Num: 8
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 37, Measure Num: 8
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 38, Measure Num: 8
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 39, Measure Num: 8
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 40, Measure Num: 8
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 41, Measure Num: 8
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 42, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 43, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 44, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 45, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 46, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 47, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 48, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 49, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 50, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 51, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 52, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 53, Measure Num: 11
+Actual: D:maj (id: 10) Predicted: C:maj (id: 5)
+Event Num: 54, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 55, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 56, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 57, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 58, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 59, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 60, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 61, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 62, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 63, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 64, Measure Num: 13
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 65, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 66, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 67, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 68, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 69, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 70, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 71, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 72, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 73, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 74, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 75, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 76, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 77, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 78, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 79, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 80, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 81, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 82, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 83, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 84, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 85, Measure Num: 16
+Actual: A:maj (id: 24) Predicted: D:min (id: 12)
+Event Num: 86, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 87, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 88, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 89, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 90, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 91, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 92, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 93, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 94, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 95, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: F:maj (id: 0)
+Event Num: 96, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 97, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 98, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 99, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 100, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 101, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 102, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 103, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 104, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 105, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 106, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 107, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 108, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 109, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 110, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 111, Measure Num: 21
+Actual: D:maj (id: 10) Predicted: D:min (id: 12)
+Event Num: 112, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 113, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 114, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 115, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 116, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 117, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 118, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 119, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 120, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 121, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 122, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 123, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 124, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 125, Measure Num: 26
+Actual: C:maj (id: 5) Predicted: C:maj (id: 5)
+Event Num: 126, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 127, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 128, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 129, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 130, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 131, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 132, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 133, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 134, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 135, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 136, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 137, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 138, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 139, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 140, Measure Num: 28
+Actual: D:maj (id: 10) Predicted: Bb:maj (id: 1)
+Event Num: 141, Measure Num: 30
+Actual: A:maj (id: 24) Predicted: A:maj (id: 24)
+Event Num: 142, Measure Num: 30
+Actual: A:maj (id: 24) Predicted: D:min (id: 12)
+Event Num: 143, Measure Num: 30
+Actual: A:maj (id: 24) Predicted: D:min (id: 12)
+Event Num: 144, Measure Num: 30
+Actual: A:maj (id: 24) Predicted: D:min (id: 12)
+Event Num: 145, Measure Num: 30
+Actual: A:maj (id: 24) Predicted: D:min (id: 12)
+Event Num: 146, Measure Num: 30
+Actual: A:maj (id: 24) Predicted: D:min (id: 12)
+Event Num: 147, Measure Num: 30
+Actual: A:maj (id: 24) Predicted: D:min (id: 12)
+Event Num: 148, Measure Num: 30
+Actual: A:maj (id: 24) Predicted: D:min (id: 12)
+(Segment-Based) Correct: 1, Predicted: 17, Gold: 11
+(Segment-Based) Overall P:  5.88%, R:  9.09%, F:  7.14%
+(Event-Based) Correct: 69, Predicted: 149, Gold: 149
+(Event-Based) Overall A: 46.31%
+
